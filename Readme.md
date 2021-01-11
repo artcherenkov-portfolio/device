@@ -7,7 +7,7 @@
 
 'Device' was written in vanilla HTML & CSS & JS and then built and published with Gulp packaging tool.
 
-In this project you can see two sliders and popups (interactive map and contact form). Website styled with flexboxes and grid layouts. It not responsive, because the task was to make a fixed layout, but potentially it can be flexible. 
+In this project you can see two sliders and popups (interactive map and contact form). Website styled with flexboxes and grid layouts. It's not responsive, because the task was to make a fixed layout, but potentially it can be flexible. 
 
 A big attention paid for site accessibility, so you can fully navigate with the 'tab' button.
 
