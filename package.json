@@ -1,8 +1,8 @@
 {
   "name": "device",
-  "version": "17.0.0",
+  "version": "0.0.1",
   "private": true,
-  "description": "Сайт интернет-магазина Device",
+  "description": "E-commerce website Device | Сайт интернет-магазина Device",
   "devDependencies": {
     "autoprefixer": "9.5.x",
     "browser-sync": "2.26.x",
